@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alfonsocorrelo
+- 👀 I’m interested in pho with sate broth 
+- 🌱 I’m currently learning how to code
+- 💞️ I’m looking to collaborate on javascript, python and maybe some data science
+- 📫 How to reach me here 
